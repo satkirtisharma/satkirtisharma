@@ -1,10 +1,12 @@
+<p align="center">
+  <a href="[https://www.gla.ac.in/academics/faculty-detail/618/mr-mohd-amir-khan](https://media.licdn.com/dms/image/C5603AQFRXku5M5SYjw/profile-displayphoto-shrink_800_800/0/1651808688892?e=1679529600&v=beta&t=P_7o0OVsem92Mf9sbaETMXjNvRMdjKPsyRG05ZQVrXs)" target="_blank"><img src="res/atlas.gif" width=854 height=300></a>
+</p>
 <h1 align="center">Hi 👋, I'm Satkirti Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satkirtisharma&label=Profile%20views&color=0e75b6&style=flat" alt="satkirtisharma" /> </p>
 
-- 🔭 I’m currently working on **Webdevelopment project**
 
 - 🌱 I’m currently learning **Webdevelopment**
 
