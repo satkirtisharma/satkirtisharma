@@ -7,6 +7,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satkirtisharma&label=Profile%20views&color=0e75b6&style=flat" alt="satkirtisharma" /> </p>
+<img align="right" height="280px" alt="GIF" src="https://media1.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611a2f55660a74ef691e9079a0360cc33d6a4a5b6d3&rid=giphy.gif&ct=g" />
 
 
 - 🌱 I’m currently learning **Webdevelopment**
