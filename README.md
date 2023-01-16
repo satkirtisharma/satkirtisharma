@@ -26,6 +26,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satkirtisharma&" alt="satkirtisharma" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satkirtisharma&show_icons=true&locale=en&layout=compact" alt="satkirtisharma" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satkirtisharma&show_icons=true&locale=en" alt="satkirtisharma" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satkirtisharma&show_icons=true&hide_border=true&theme=radical" width="37%" alt="satkirtisharma's Top Languages">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
