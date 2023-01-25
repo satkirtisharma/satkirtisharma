@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satkirtisharma&" alt="satkirtisharma" /></p>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3>
