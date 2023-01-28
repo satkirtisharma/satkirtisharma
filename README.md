@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://media.licdn.com/dms/image/C5603AQFRXku5M5SYjw/profile-displayphoto-shrink_800_800/0/1651808688892?e=1679529600&v=beta&t=P_7o0OVsem92Mf9sbaETMXjNvRMdjKPsyRG05ZQVrXs" target="_blank"><img src="https://media.licdn.com/dms/image/C5603AQFRXku5M5SYjw/profile-displayphoto-shrink_400_400/0/1651808688892?e=1679529600&v=beta&t=ZF4jZm2cryCpV2120yqeKLKz3rxxTW-v2nkpnXHACjc" width=450 height=500></a>
+  <a href="https://media.licdn.com/dms/image/C5603AQFRXku5M5SYjw/profile-displayphoto-shrink_800_800/0/1651808688892?e=1679529600&v=beta&t=P_7o0OVsem92Mf9sbaETMXjNvRMdjKPsyRG05ZQVrXs" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQEp7Cdhn01viw/profile-displayphoto-shrink_400_400/0/1674917997577?e=1680134400&v=beta&t=7j7aafbQkDS7ReiKOGiZGR-DtTy4kFGZndG-gJ-o28Q" width=450 height=500></a>
 
 </p>
 <h1 align="center">Hi 👋, I'm Satkirti Sharma</h1>
