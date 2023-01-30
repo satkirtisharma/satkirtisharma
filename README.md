@@ -29,6 +29,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=satkirtisharma&show_icons=true&locale=en&layout=compact" alt="satkirtisharma" /></p>
 
 
-,<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satkirtisharma&" alt="satkirtisharma" /></p>-->
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satkirtisharma&" alt="satkirtisharma" /></p>-->
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3>
