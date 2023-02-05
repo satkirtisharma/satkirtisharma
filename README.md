@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Satkirti Sharma</h1>
 <h3 align="center">I am pursuing Btech from <a href="https://www.gla.ac.in/"target="_blank">GLA University</a></h3>
-
+https://profile-counter.glitch.me/satkirtisharma/count.svg
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=satkirtisharma&label=Profile%20views&color=0e75b6&style=flat" alt="satkirtisharma" /> </p>-->
 <br>
