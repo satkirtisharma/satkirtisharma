@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://media.licdn.com/dms/image/C5603AQFRXku5M5SYjw/profile-displayphoto-shrink_800_800/0/1651808688892?e=1679529600&v=beta&t=P_7o0OVsem92Mf9sbaETMXjNvRMdjKPsyRG05ZQVrXs" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQEp7Cdhn01viw/profile-displayphoto-shrink_400_400/0/1674917997577?e=1686182400&v=beta&t=XMQlteqSs8SVKsqzKjlExTiElSpxImf3Yqt8pt2HOtI" width=450 height=500></a>
+  <a href="[https://media.licdn.com/dms/image/C5603AQFRXku5M5SYjw/profile-displayphoto-shrink_800_800/0/1651808688892?e=1679529600&v=beta&t=P_7o0OVsem92Mf9sbaETMXjNvRMdjKPsyRG05ZQVrXs" target="_blank"><img src="https://media.licdn.com/dms/image/D4D03AQEp7Cdhn01viw/profile-displayphoto-shrink_400_400/0/1674917997577?e=1686182400&v=beta&t=XMQlteqSs8SVKsqzKjlExTiElSpxImf3Yqt8pt2HOtI](https://media.licdn.com/dms/image/D4D03AQEp7Cdhn01viw/profile-displayphoto-shrink_400_400/0/1674917997577?e=1694044800&v=beta&t=308ZxQEsfVt4t5fgkHgOv01tiYA5ofmlMDvfdDmJxHg)" width=450 height=500></a>
 
 </p>
 <h1 align="center">Hi 👋, I'm Satkirti Sharma</h1>
