@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://media.licdn.com/dms/image/D4D03AQEp7Cdhn01viw/profile-displayphoto-shrink_400_400/0/1674917997577?e=1694044800&v=beta&t=308ZxQEsfVt4t5fgkHgOv01tiYA5ofmlMDvfdDmJxHg" target="_blank"><img src="res/atlas.gif" width=854 height=300></a>
+  <a href="https://media.licdn.com/dms/image/D4D03AQEp7Cdhn01viw/profile-displayphoto-shrink_400_400/0/1674917997577?e=1694044800&v=beta&t=308ZxQEsfVt4t5fgkHgOv01tiYA5ofmlMDvfdDmJxHg" target="_blank"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Satkirti Sharma</h1>
 <h3 align="center">I am pursuing Btech from <a href="https://www.gla.ac.in/"target="_blank">GLA University</a></h3>
